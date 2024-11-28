@@ -1,13 +1,13 @@
 YL.static = {
   /** “关于”信息 */
-  softwareName: 'YLUI DEMO', //网站名。请在此处填写您自己的网站名，如王小明的博客。
-  version: "1.0.0", // 网站版本号
+  softwareName: ' KurisuRakko"s Transit Center ', //网站名。请在此处填写您自己的网站名，如王小明的博客。
+  version: "1.0.3", // 网站版本号
   iconBtnStart: 'html5', //主图标
-  author: 'null',//作者
-  contactInformation: 'null',//联系方式
-  officialWebsite: '//null',//软件官网
-  welcome: '本网站UI由 YLUI 强力驱动\n更多信息：//ylui.yuri2.cn',//加载完毕控制台提示信息
-  copyrightDetail: 'null',//版权详细信息
+  author: 'KurisuRakko(Spencer)',//作者
+  contactInformation: 'hiiragi@rakko.io',//联系方式
+  officialWebsite: '//rakko.io',//软件官网
+  welcome: '本网站由牧濑框架驱动\n更多信息：//rakko.io',//加载完毕控制台提示信息
+  copyrightDetail: 'PowerBy KurisuRakko',//版权详细信息
   otherStatements: '',//其他信息（可留空）
 
   /**————————————————————————————————————————————————————————————————————————————————————————————*/
@@ -25,7 +25,7 @@ YL.static = {
 
   /**————————————————————————————————————————————————————————————————————————————————————————————*/
   /** YLUI注册信息 */
-  authorization: '社区版',//授权类型
-  serialNumber: null,//序列号
+  authorization: 'KR驱动版本',//授权类型
+  serialNumber: 020103,//序列号
 
 };
